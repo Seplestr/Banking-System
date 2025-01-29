@@ -22,24 +22,30 @@ A console-based Java application demonstrating core banking operations with prop
 - IntelliJ IDEA (recommended)
 
 ## Installation
+
+To set up and run the banking system application, follow these steps:
+
+### Clone the Repository
+First, clone the repository using the following command:
+
 1. Clone the repository:
-  -git clone https://github.com/yourusername/banking-system.git
-  -cd banking-system
+    - git clone https://github.com/yourusername/banking-system.git
+    - cd banking-system
 
 2. Compile the source files:
-  -javac BankingSystem.java
+    - javac BankingSystem.java
 
 3. Run the application:
-  -java BankingSystem
+    - java BankingSystem
 
-### Usage
+## Usage
 **Choose an option:**
   - Deposit
   - Withdraw
   - Check Balance
   - Exit
 
-### Example Session
+## Example Session
 1. **Deposit ₹5000**
    - Choose option 1
    - Enter deposit amount: 5000
