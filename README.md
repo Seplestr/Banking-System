@@ -19,7 +19,7 @@ A console-based Java application demonstrating core banking operations with prop
 ## Prerequisites
 - Java JDK 8 or higher
 - Maven/Gradle (optional)
-- IntelliJ IDEA (recommended)
+- IntelliJ IDEA/Microsoft VSC
 
 ## Installation
 
